@@ -1,0 +1,15 @@
+C:\cshar\cshart\tarea2\tarea2\bin\Debug\net8.0\tarea2.exe
+C:\cshar\cshart\tarea2\tarea2\bin\Debug\net8.0\tarea2.deps.json
+C:\cshar\cshart\tarea2\tarea2\bin\Debug\net8.0\tarea2.runtimeconfig.json
+C:\cshar\cshart\tarea2\tarea2\bin\Debug\net8.0\tarea2.dll
+C:\cshar\cshart\tarea2\tarea2\bin\Debug\net8.0\tarea2.pdb
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.AssemblyInfoInputs.cache
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.AssemblyInfo.cs
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.csproj.CoreCompileInputs.cache
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.sourcelink.json
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.dll
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\refint\tarea2.dll
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.pdb
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\tarea2.genruntimeconfig.cache
+C:\cshar\cshart\tarea2\tarea2\obj\Debug\net8.0\ref\tarea2.dll
