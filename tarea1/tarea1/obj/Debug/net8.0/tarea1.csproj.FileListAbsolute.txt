@@ -1,0 +1,14 @@
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.AssemblyInfoInputs.cache
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.AssemblyInfo.cs
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.csproj.CoreCompileInputs.cache
+C:\cshar\tarea1\tarea1\bin\Debug\net8.0\tarea1.exe
+C:\cshar\tarea1\tarea1\bin\Debug\net8.0\tarea1.deps.json
+C:\cshar\tarea1\tarea1\bin\Debug\net8.0\tarea1.runtimeconfig.json
+C:\cshar\tarea1\tarea1\bin\Debug\net8.0\tarea1.dll
+C:\cshar\tarea1\tarea1\bin\Debug\net8.0\tarea1.pdb
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.dll
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\refint\tarea1.dll
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.pdb
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\tarea1.genruntimeconfig.cache
+C:\cshar\tarea1\tarea1\obj\Debug\net8.0\ref\tarea1.dll
