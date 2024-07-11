@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea4", "tarea4.csproj", "{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tarea4", "tarea4.csproj", "{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea5", "..\tarea5\tarea5.csproj", "{417E2795-3D56-4AA9-9415-0166F26B0B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417E2795-3D56-4AA9-9415-0166F26B0B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417E2795-3D56-4AA9-9415-0166F26B0B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417E2795-3D56-4AA9-9415-0166F26B0B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417E2795-3D56-4AA9-9415-0166F26B0B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

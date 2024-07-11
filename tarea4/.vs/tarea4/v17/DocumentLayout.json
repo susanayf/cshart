@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\cshar\\cshart\\tarea4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{417E2795-3D56-4AA9-9415-0166F26B0B8E}|..\\tarea5\\tarea5.csproj|c:\\cshar\\cshart\\tarea5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417E2795-3D56-4AA9-9415-0166F26B0B8E}|..\\tarea5\\tarea5.csproj|c:\\cshar\\cshart\\tarea5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}|tarea4.csproj|c:\\cshar\\cshart\\tarea4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEE54846-AEF1-42C5-A4CC-24ACE4B2ED1B}|tarea4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,14 +29,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\cshar\\cshart\\tarea5\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\tarea5\\Form1.cs",
+              "ToolTip": "C:\\cshar\\cshart\\tarea5\\Form1.cs",
+              "RelativeToolTip": "..\\tarea5\\Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAEwD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:51:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\cshar\\cshart\\tarea5\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\tarea5\\Form1.cs",
+              "ToolTip": "C:\\cshar\\cshart\\tarea5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\tarea5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:30:42.224Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\cshar\\cshart\\tarea4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\cshar\\cshart\\tarea4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAswDgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T20:09:16.182Z",
+              "WhenOpened": "2024-07-11T12:15:21.588Z",
               "EditorCaption": ""
             }
           ]
