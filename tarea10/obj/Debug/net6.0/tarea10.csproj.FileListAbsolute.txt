@@ -1,0 +1,15 @@
+C:\cshar\cshart\tarea10\bin\Debug\net6.0\tarea10.exe
+C:\cshar\cshart\tarea10\bin\Debug\net6.0\tarea10.deps.json
+C:\cshar\cshart\tarea10\bin\Debug\net6.0\tarea10.runtimeconfig.json
+C:\cshar\cshart\tarea10\bin\Debug\net6.0\tarea10.dll
+C:\cshar\cshart\tarea10\bin\Debug\net6.0\tarea10.pdb
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.AssemblyInfoInputs.cache
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.AssemblyInfo.cs
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.csproj.CoreCompileInputs.cache
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.sourcelink.json
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.dll
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\refint\tarea10.dll
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.pdb
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\tarea10.genruntimeconfig.cache
+C:\cshar\cshart\tarea10\obj\Debug\net6.0\ref\tarea10.dll

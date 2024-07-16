@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHfYVgUVjrH4HufRkAPnaJvim2Efn2sC7dD7hn1+ZY4dku4WPaXaKeEZV5LSiPI6c/xuXrabWgGdNr5oY5FFuw==",
+  "success": true,
+  "projectFilePath": "C:\\cshar\\cshart\\tarea10\\tarea10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\alexz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\alexz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\alexz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
